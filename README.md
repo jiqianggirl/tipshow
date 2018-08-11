@@ -3,6 +3,7 @@ vue提示框插件，依赖vue2.0以上版本。
 
 # 使用tipshow
 下载文件放到components里
+
 main.js文件中
 ```javascript
 //需要引入vue，以及vue-tipshow
